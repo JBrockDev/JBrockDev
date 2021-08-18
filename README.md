@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Jonathan Brock
+## .NET Developer
 <!--
 **JBrockDev/JBrockDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
