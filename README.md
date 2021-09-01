@@ -1,5 +1,8 @@
 ## Jonathan Brock
 ## .NET Developer | Software Engineer
+Software Engineer demonstrating a strong desire to continually learn and improve skills. Army veteran with leadership and innovation experience. Resilient to set backs while maintaining focus on the end goal. Perpetually works to strengthen weaknesses and further improve strengths.
+
+I am someone who truly enjoys learning, rather than says it and does it when convenient. Every day I go to sleep with a bit more knowledge than I came into the day with. If I'm curious about something, I research it. If I'm busy, I open a tab and google the topic to read later. I don't settle for things being how they are, I generally look into how they work. As Buffet said, knowledge is an investment that pays returns. Would you rather have someone who does the bare minimum to keep the status quo or are you looking for someone who will increase in value day by day?
 <!--
 **JBrockDev/JBrockDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
